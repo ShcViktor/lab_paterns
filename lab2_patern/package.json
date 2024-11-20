@@ -1,0 +1,13 @@
+{
+  "name": "lab2_patern",
+  "version": "1.0.0",
+  "description": "A shipping port and ship management system.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

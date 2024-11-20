@@ -1,0 +1,29 @@
+{
+  "ports": [
+    {
+      "ID": 1,
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    }
+  ],
+  "items": [
+    {
+      "type": "Heavy",
+      "ID": 1,
+      "weight": 1000,
+      "count": 5,
+      "containerID": 10
+    }
+  ],
+  "ships": [
+    {
+      "type": "Medium",
+      "ID": 101,
+      "fuel": 1000,
+      "currentPort": 1,
+      "totalWeightCapacity": 20000,
+      "maxContainers": 20,
+      "fuelConsumptionPerKM": 0.6
+    }
+  ]
+}

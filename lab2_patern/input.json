@@ -1,0 +1,41 @@
+{
+  "ports": [
+    {
+      "ID": 1,
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    },
+    {
+      "ID": 2,
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    }
+  ],
+  "ships": [
+    {
+      "ID": 101,
+      "fuel": 1000,
+      "currentPort": 1,
+      "totalWeightCapacity": 10000,
+      "maxContainers": 20,
+      "fuelConsumptionPerKM": 0.5
+    },
+    {
+      "ID": 102,
+      "fuel": 1500,
+      "currentPort": 2,
+      "totalWeightCapacity": 15000,
+      "maxContainers": 30,
+      "fuelConsumptionPerKM": 0.6
+    },
+    {
+      "ID": 103,
+      "fuel": 1200,
+      "currentPort": 1,
+      "totalWeightCapacity": 12000,
+      "maxContainers": 25,
+      "fuelConsumptionPerKM": 0.55
+    }
+    
+  ]
+}

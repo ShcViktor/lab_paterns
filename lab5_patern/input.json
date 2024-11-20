@@ -1,0 +1,23 @@
+{
+  "personal_info": {
+    "name": "Jane Doe",
+    "address": "456 Elm St",
+    "phone_number": "+987654321",
+    "email": "jane.doe@example.com"
+  },
+  "credit_card": {
+    "client": "Jane Doe",
+    "account_number": "9876543210",
+    "credit_limit": 15000,
+    "grace_period": 25,
+    "cvv": "456"
+  },
+  "bank_info": {
+    "bank_name": "Global Bank",
+    "holder_name": "Jane Doe",
+    "accounts_number": ["9876543210"],
+    "credit_history": {
+      "9876543210": ["Deposit 2000", "Withdrawal 700"]
+    }
+  }
+}

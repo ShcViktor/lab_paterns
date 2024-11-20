@@ -1,0 +1,70 @@
+{
+  "ports": [
+    {
+      "ID": 1,
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "containers": [],
+      "history": [],
+      "current": []
+    },
+    {
+      "ID": 2,
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "containers": [],
+      "history": [],
+      "current": []
+    }
+  ],
+  "ships": [
+    {
+      "ID": 101,
+      "fuel": 1000,
+      "currentPort": {
+        "ID": 1,
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "containers": [],
+        "history": [],
+        "current": []
+      },
+      "totalWeightCapacity": 10000,
+      "maxContainers": 20,
+      "fuelConsumptionPerKM": 0.5,
+      "containers": []
+    },
+    {
+      "ID": 102,
+      "fuel": 1500,
+      "currentPort": {
+        "ID": 2,
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "containers": [],
+        "history": [],
+        "current": []
+      },
+      "totalWeightCapacity": 15000,
+      "maxContainers": 30,
+      "fuelConsumptionPerKM": 0.6,
+      "containers": []
+    },
+    {
+      "ID": 103,
+      "fuel": 1200,
+      "currentPort": {
+        "ID": 1,
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "containers": [],
+        "history": [],
+        "current": []
+      },
+      "totalWeightCapacity": 12000,
+      "maxContainers": 25,
+      "fuelConsumptionPerKM": 0.55,
+      "containers": []
+    }
+  ]
+}

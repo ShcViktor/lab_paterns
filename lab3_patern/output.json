@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "ID": 1,
+      "weight": 1000,
+      "count": 5,
+      "containerID": 10
+    }
+  ],
+  "ships": [
+    {
+      "ID": 101,
+      "fuel": 1000,
+      "currentPort": 1,
+      "totalWeightCapacity": 20000,
+      "maxContainers": 20,
+      "fuelConsumptionPerKM": 0.6
+    }
+  ],
+  "customShip": {
+    "ID": 102,
+    "fuel": 1500,
+    "currentPort": 1,
+    "totalWeightCapacity": 25000,
+    "maxContainers": 30,
+    "fuelConsumptionPerKM": 0.5
+  }
+}
